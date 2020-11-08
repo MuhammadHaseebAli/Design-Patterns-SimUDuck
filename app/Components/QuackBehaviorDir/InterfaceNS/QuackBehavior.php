@@ -1,7 +1,6 @@
 <?php
-namespace App\SimUDuck;
+namespace App\Components\QuackBehaviorDir\InterfaceNS;
 
 interface QuackBehavior {
     public function quack();
 }
-
